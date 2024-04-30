@@ -136,3 +136,7 @@ D:\IT\C#\JunkProjects\FinShark\api\obj\Debug\net8.0\api.pdb
 D:\IT\C#\JunkProjects\FinShark\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\IT\C#\JunkProjects\FinShark\api\obj\Debug\net8.0\ref\api.dll
 D:\IT\C#\JunkProjects\FinShark\api\obj\Debug\net8.0\api.sourcelink.json
+D:\IT\C#\JunkProjects\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\IT\C#\JunkProjects\FinShark\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IT\C#\JunkProjects\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\IT\C#\JunkProjects\FinShark\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
